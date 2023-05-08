@@ -1,0 +1,11 @@
+https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html
+https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf
+https://gbdev.gg8.se/files/roms/blargg-gb-tests/
+https://rgbds.gbdev.io/docs/v0.5.1/gbz80.7
+https://gbdev.io/gb-opcodes/optables/
+https://gbdev.io/gb-opcodes/Opcodes.json
+https://gbdev.io/pandocs/Serial_Data_Transfer_(Link_Cable).html
+
+To do:
+
+CPU EMULATION

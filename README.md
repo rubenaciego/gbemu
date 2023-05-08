@@ -1,2 +1,2 @@
-# gbemu
+# GBemu
 GameBoy emulator (WIP)
